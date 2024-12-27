@@ -18,6 +18,7 @@ pipeline {
     stage('step3') {
       steps {
         echo "Now, Let us build a real CI-CD pipeline"
+      }
     }
 
   }
