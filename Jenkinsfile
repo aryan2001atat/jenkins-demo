@@ -17,7 +17,7 @@ pipeline {
     
     stage('step3') {
       step {
-        echo "Now, Let's build a real CI-CD pipeline"
+        echo "Now, Let us build a real CI-CD pipeline"
     }
 
   }
